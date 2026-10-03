@@ -1,177 +1,115 @@
 <div align="center">
-  <br>
-  <kbd>&nbsp;JX-01 / DEVELOPER UNIT&nbsp;</kbd>
-  <h1>J E K K Y</h1>
-  <p><strong>RPL STUDENT • SOFTWARE DEVELOPMENT</strong></p>
-  <hr style="width: 250px; border: 1px solid #333333; margin-top: 20px; margin-bottom: 20px;">
-</div>
-
-### /// ABOUT ME
-
-**RPL Student 💻 </> Learning Software Development Building projects 🚀**
-
-Curious about the world, always learning something new that sparks my interest.
-
-I am an RPL (Software Engineering) student deeply focused on software and web development. My core interest lies in exploring how modern technologies work behind the scenes and applying programming fundamentals to build functional, clean, and efficient applications. I enjoy the continuous process of problem-solving, experimenting with new frameworks, and honing my technical skills as I grow as a developer.
-
-<br>
-
-### /// CURRENT FOCUS
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>⚙️ Architecture & Logic</strong><br>
-      Software Development • Programming Fundamentals • APIs
-    </td>
-    <td width="50%" valign="top">
-      <strong>🖥️ Environment & Tools</strong><br>
-      Linux • Git & GitHub • Modern Workflows
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🔗 Backend Engineering</strong><br>
-      Laravel • PHP • System Architecture
-    </td>
-    <td width="50%" valign="top">
-      <strong>🎨 Frontend Development</strong><br>
-      Next.js • JavaScript • Web Development
-    </td>
-  </tr>
+<tr>
+<td width="64%" valign="middle">
+<p><sub>delvatejekky7540</sub></p>
+<h1>Jekky</h1>
+<h2>Full-Stack Developer</h2>
+<p>RPL Student, Learning Software Development And Building projects</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/delvatejekky7540">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/260006880?u=2b5e8cda5d6ab1c2841d09a1f662d16e59601d69&amp;v=4" width="180" alt="Jekky GitHub avatar" />
+</td>
+</tr>
 </table>
+</div>
 
-<br>
-
-### /// TECH STACK
-
-**LANGUAGES**  
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-
-**FRAMEWORKS & LIBRARIES**  
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?style=flat-square&logo=codeigniter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white)
-
-**TOOLS**  
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-### /// SYSTEM PANEL
-
-<table width="350px">
-  <tr>
-    <th colspan="2" align="left">■ DATA_NODE : JX-01</th>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Role</strong></td>
-    <td>RPL Student</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Software Development</td>
-  </tr>
-  <tr>
-    <td><strong>Mode</strong></td>
-    <td>Learning</td>
-  </tr>
-  <tr>
-    <td><strong>Build</strong></td>
-    <td>Active</td>
-  </tr>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>Online</td>
-  </tr>
-</table>
-
-<br>
-
-### /// FEATURED PROJECTS
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>School Web Platform</h4>
-      <p><i>Laravel · Tailwind CSS · Vite</i></p>
-      <p>School website project focused on modern frontend design and school information.</p>
-      <kbd>Status: ACTIVE</kbd> <br><br>
-      <a href="YOUR_REPOSITORY_URL">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Student Dashboard</h4>
-      <p><i>Next.js · React · APIs</i></p>
-      <p>Web project exploring API integration and modern frontend development.</p>
-      <kbd>Status: IN PROGRESS</kbd> <br><br>
-      <a href="YOUR_REPOSITORY_URL">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Portfolio V1</h4>
-      <p><i>HTML · CSS · JavaScript</i></p>
-      <p>Personal portfolio project highlighting structural design and minimalism.</p>
-      <kbd>Status: STABLE</kbd> <br><br>
-      <a href="YOUR_REPOSITORY_URL">View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Inventory System</h4>
-      <p><i>PHP · CodeIgniter · Bootstrap</i></p>
-      <p>Web-based inventory management project focused on data handling.</p>
-      <kbd>Status: UPGRADING</kbd> <br><br>
-      <a href="YOUR_REPOSITORY_URL">View Repository</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>9 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>38 contributions · 18 active days</p></td>
+</tr>
 </table>
 
-<br>
+<p><sub>RPL Student, Learning Software Development And Building projects</sub></p>
 
-### /// TELEMETRY & STATISTICS
+<h2>Proof at a glance</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false&style=flat-square" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false&style=flat-square" alt="Top Languages" />
-</div>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>9</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>38</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<br>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Jekky GitHub proof metrics" />
+</picture>
+</p>
 
-### /// ACTIVITY OVERVIEW
+<h2>Selected work</h2>
 
-<!-- GitHub activity will automatically populate in the user's standard contribution graph below this README. -->
-*Repository synchronization and contribution cycles active.*
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&repos=delvatejekky7540%2FPenerapan-API-di-NextJS%2Cdelvatejekky7540%2FPenerapan-API%2Cdelvatejekky7540%2FWeb-Sekolah-CodeIgniter-3%2Cdelvatejekky7540%2Fcrud-laravel&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&repos=delvatejekky7540%2FPenerapan-API-di-NextJS%2Cdelvatejekky7540%2FPenerapan-API%2Cdelvatejekky7540%2FWeb-Sekolah-CodeIgniter-3%2Cdelvatejekky7540%2Fcrud-laravel&v=recruiter-projects-1&mode=dark" width="100%" alt="Jekky selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/DelvateJekky7540/Penerapan-API-di-NextJS">Penerapan-API-di-NextJS</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/DelvateJekky7540/Penerapan-API-di-NextJS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<br>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/DelvateJekky7540/Penerapan-API">Penerapan-API</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/DelvateJekky7540/Web-Sekolah-CodeIgniter-3">Web-Sekolah-CodeIgniter-3</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/DelvateJekky7540/crud-laravel">crud-laravel</a></h3><p>A selected public project.</p><p><sub>Blade · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### /// CONTACT & COMM_LINK
+<h2>Technical toolkit</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Jekky technology stack" />
+</picture>
+</p>
 
-<br><br>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>84% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>SCSS</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-<div align="center">
-  <hr style="width: 100%; border: 1px solid #222222;">
-  <br>
-  <p><strong>JX-01 // JEKKY</strong></p>
-  <p><small>RPL STUDENT • SOFTWARE DEVELOPMENT</small><br>
-  <small><i>Building • Learning • Exploring</i></small></p>
-  <br>
-  <p><kbd>&nbsp;Always learning. Always building.&nbsp;</kbd></p>
-  <br>
-</div>
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=delvatejekky7540&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F260006880%3Fu%3D2b5e8cda5d6ab1c2841d09a1f662d16e59601d69%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Jekky contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/delvatejekky7540">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>© 2026 Jekky. All rights reserved.</sub></p>
