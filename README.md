@@ -12,13 +12,13 @@
 
 ## About
 
-> RPL Student 💻
-&lt;/&gt; Learning Software Development
-Building projects 🚀
+> RPL Student 💻<br>
+> &lt;/&gt; Learning Software Development<br>
+> Building projects 🚀
 
 - 👥 **1** followers · **2** following
 
-*Small, useful work over vague claims.*
+*Curious about the world, always learning something new that sparks my interest.*
 
 ## Core toolkit
 
